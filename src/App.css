@@ -1,0 +1,63 @@
+body {
+  background-color: #C1E0FF;
+}
+
+.submission-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1% 0;
+}
+
+.submission-paper {
+  margin: 0.4% 10%
+}
+
+.submission-text {
+  font-weight: 300;
+  width: 12%;
+  font-size: 1.3em;
+  display: table;
+}
+
+.submission-text-container {
+  width: 36%;
+  min-width: 36%;
+
+}
+
+.option-btn {
+  width: 100%;
+}
+
+.option-btn-group {
+  width: 24%;
+}
+
+.submit-btn {
+  display: flex;
+  justify-content: end;
+  padding: 1% 32%;
+}
+
+.submission-form-main {
+  padding: 2% 2% 5% 2%;
+}
+
+.submission-title {
+  font-size: 2em;
+  font-weight: 300;
+  text-align: center;
+  color: #3A3799;
+  padding-top: 1%;
+}
+
+.top-panel {
+  margin-top: 3.4%;
+  padding: 0.5% 1%;
+}
+
+.log-table {
+  width: 100%;
+  height: 500px;
+}
